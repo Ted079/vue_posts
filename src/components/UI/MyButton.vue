@@ -16,7 +16,10 @@ export default {
   color: white;
   align-self: flex-end;
   background: teal;
+  background: none;
   border: 1px solid teal;
   border-radius: 10px;
+  color: teal;
+  margin-left: 20px;
 }
 </style>

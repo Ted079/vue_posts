@@ -26,5 +26,7 @@ export default {
   margin: 15px 0;
   display: flex;
   justify-content: space-between;
+  font-family: Arial, 'Helvetica Neue', Helvetica, sans-serif;
+  font-size: 15px;
 }
 </style>
